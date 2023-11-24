@@ -6,6 +6,7 @@
 
 * {
   font-family: "Chakra Petch", sans-serif;
+  scroll-behavior: smooth;
 }
 
 .header_area .main-menu .navbar .navbar-brand {
